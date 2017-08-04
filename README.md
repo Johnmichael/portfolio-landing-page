@@ -30,7 +30,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomo
 
 ## Authors
 
-* **John Parsons** - *The entirety* - [Johnmichaelparsons](https://github.com/Johnmichaelparsons/)
+* **John Parsons** - [Johnmichaelparsons](https://github.com/Johnmichaelparsons/)
 
 
 ## License
