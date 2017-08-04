@@ -15,7 +15,7 @@ After downloading, drag and drop "index.html" onto an empty Google Chrome tab.
 
 If you can view this, then there is a incredibly likely chance that you already have all the prerequisites.
 
-If you can not view this, or are on a mobile browser, I would suggest you accomodate the nearest desktop or laptop computer with an internet connection. For more advanced users, transfer the "Portfolio-landing-page-master" to that computer.
+If you can not view this, or are on a mobile browser, I would suggest you accommodate the nearest desktop or laptop computer with an internet connection. For more advanced users, transfer the "Portfolio-landing-page-master" to that computer.
 
 
 
@@ -28,7 +28,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomo
 
 
 
-## Authors
+## Author
 
 * **John Parsons** - [Johnmichaelparsons](https://github.com/Johnmichaelparsons/)
 
@@ -36,6 +36,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomo
 ## License
 
 This project is licensed under the MIT License
+
 
 
 ## Acknowledgments
