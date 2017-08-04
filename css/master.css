@@ -1,34 +1,38 @@
 * {
-  font-size: 62.5% /*(16 * 62.5% = 10) Now 1.6em = 16px */
+  font-size: 62.5%/*(16 * 62.5% = 10) Now 1.6em = 16px */
 }
 
 h1 {
   text-transform: capitalize;
-
 }
 
-.jumbotron{
-    border-radius: 23px;
-
+.jumbotron {
+  border-radius: 23px;
 }
 
 .container {
-    background-color: rgb(239, 250, 249);
-    border-radius: 5%;
-    margin-left: 2%;
-    margin-right: 2%;
-    min-width: 95%;
+  background-color: rgb(239, 250, 249);
+  border-radius: 5%;
+  margin-left: 2.5%;
+  margin-right: 2%;
+  min-width: 95%;
 }
 
-
-.title{
+.title {
   margin-left: 10px;
   text-align: center;
+}
 
+a:link {
+  text-decoration: none;
 }
 
 a:hover {
   background-color: #d7f4fa;
+}
+
+a.topleftcorner:hover {
+  border-top-left-radius: 25%;
 }
 
 a.nohover:hover {
@@ -37,11 +41,11 @@ a.nohover:hover {
 
 .list {
   /*list-style-type: none;*/
-
   text-transform: capitalize;
   font-style: italic;
   font-size: 3em;
 }
+
 .listname {
   list-style-type: none;
   text-transform: capitalize;
@@ -49,12 +53,11 @@ a.nohover:hover {
 }
 
 
-
-.bodytext:first-letter {
+/*.bodytext:first-letter {
   font-size: 200%;
   float: left;
   line-height: 1;
-}
+} Decided against*/
 
 .bodytext {
   font-size: 1.8em;
@@ -72,13 +75,14 @@ a.nohover:hover {
   font-size: 50%
 }
 
-.headerspace{
+.headerspace {
   margin-top: 3em;
 }
 
-.footerspace{
+.footerspace {
   margin-top: 10em;
 }
+
 .footer {
   background-color: #d7f4fa;
   opacity: .6;
@@ -88,7 +92,6 @@ a.nohover:hover {
   width: 100%;
   text-align: center;
   border-radius: 105px;
-
 }
 
 .footerimg {

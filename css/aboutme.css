@@ -1,6 +1,20 @@
-.selfie{
+.selfie {
   border-radius: 15%;
   float: left;
   height: 33%;
   width: 33%;
+  box-shadow: 4px 4px 10px #aaa;
+  margin-right: 1.8%;
+}
+
+.namedrop {
+  font-size: 1.6em;
+}
+
+.bigword {
+  font-size: 150%;
+}
+
+.blockquote {
+  font-
 }
