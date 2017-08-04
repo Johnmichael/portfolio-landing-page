@@ -2,14 +2,29 @@
   font-size: 62.5% /*(16 * 62.5% = 10) Now 1.6em = 16px */
 }
 
-h1{
+h1 {
   text-transform: capitalize;
 
+}
+
+.jumbotron{
+    border-radius: 23px;
+
+}
+
+.container {
+    background-color: rgb(239, 250, 249);
+    border-radius: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    min-width: 95%;
 }
 
 
 .title{
   margin-left: 10px;
+  text-align: center;
+
 }
 
 a:hover {
@@ -42,7 +57,7 @@ a.nohover:hover {
 }
 
 .bodytext {
-  font-size: 3.2em;
+  font-size: 1.8em;
 }
 
 .name {
@@ -57,6 +72,13 @@ a.nohover:hover {
   font-size: 50%
 }
 
+.headerspace{
+  margin-top: 3em;
+}
+
+.footerspace{
+  margin-top: 10em;
+}
 .footer {
   background-color: #d7f4fa;
   opacity: .6;
@@ -65,7 +87,8 @@ a.nohover:hover {
   bottom: 0px;
   width: 100%;
   text-align: center;
-  
+  border-radius: 105px;
+
 }
 
 .footerimg {
@@ -74,6 +97,4 @@ a.nohover:hover {
   max-height: 10%;
   padding: 10em;
   margin: 10em;
-
-
 }
