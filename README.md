@@ -35,7 +35,8 @@ If you can not view this, or are on a mobile browser, I would suggest you accomo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
+
 
 ## Acknowledgments
 
