@@ -1,15 +1,31 @@
 * {
   font-size: 62.5% /*(16 * 62.5% = 10) Now 1.6em = 16px */
-
 }
 
-a:hover{
+h1{
+  text-transform: capitalize;
+}
+a:hover {
   background-color: #FAEBD7;
 }
 
 a.nohover:hover {
   background: transparent;
 }
+
+.list {
+  /*list-style-type: none;*/
+
+  text-transform: capitalize;
+  font-style: italic;
+  font-size: 3em;
+}
+.listname {
+  list-style-type: none;
+  text-transform: capitalize;
+  font-size: 3em;
+}
+
 
 
 .bodytext:first-letter {
@@ -22,13 +38,13 @@ a.nohover:hover {
   font-size: 3.2em;
 }
 
-.name{
+.name {
   text-align: center;
   float: left;
   font-size: 16em;
 }
 
-.contactinfo{
+.contactinfo {
   text-align: left;
   float: left;
   font-size: 50%
@@ -41,11 +57,11 @@ a.nohover:hover {
   width: 100%;
   padding: 3px;
   text-align: center;
-
 }
 
-.footerimg{
-
-  max-width: 10%; height: auto;
-  max-height: 10%; height: auto;
+.footerimg {
+  max-width: 10%;
+  height: auto;
+  max-height: 10%;
+  height: auto;
 }
