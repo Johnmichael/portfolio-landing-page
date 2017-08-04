@@ -4,9 +4,16 @@
 
 h1{
   text-transform: capitalize;
+
 }
+
+
+.title{
+  margin-left: 10px;
+}
+
 a:hover {
-  background-color: #FAEBD7;
+  background-color: #d7f4fa;
 }
 
 a.nohover:hover {
@@ -51,17 +58,22 @@ a.nohover:hover {
 }
 
 .footer {
-  margin-top: 5em;
+  background-color: #d7f4fa;
+  opacity: .6;
+  padding: 1em;
   position: fixed;
   bottom: 0px;
   width: 100%;
-  padding: 3px;
   text-align: center;
+  
 }
 
 .footerimg {
-  max-width: 10%;
+  max-width: .4em;
   height: auto;
   max-height: 10%;
-  height: auto;
+  padding: 10em;
+  margin: 10em;
+
+
 }
