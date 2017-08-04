@@ -1,3 +1,8 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
 .selfie {
   border-radius: 15%;
   float: left;
@@ -5,16 +10,30 @@
   width: 33%;
   box-shadow: 4px 4px 10px #aaa;
   margin-right: 1.8%;
+  margin-bottom: 1.3%;
 }
 
 .namedrop {
   font-size: 1.6em;
+  font-style: normal;
+}
+
+.blockquote{
+  text-align: right;
+  font-style: italic;
+
+  margin-right: 8%;
 }
 
 .bigword {
   font-size: 150%;
 }
 
-.blockquote {
-  font-
+blockquote {
+    border-left: none;
+}
+
+.italic{
+  font-style: italic;
+  font-size: 1em;
 }
