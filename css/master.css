@@ -2,14 +2,23 @@
   font-size: 62.5%/*(16 * 62.5% = 10) Now 1.6em = 16px */
 }
 
-body{
+body {
   font-family: 'Open Sans', sans-serif;
-
 }
-
 
 h1 {
   text-transform: capitalize;
+}
+
+.namedrop {
+  font-size: 1em;
+  font-style: italic;
+}
+
+strong.obvious {
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .jumbotron {
@@ -20,7 +29,7 @@ h1 {
   background-color: rgb(239, 250, 249);
   border-radius: 5%;
   margin-left: 2.5%;
-  margin-right: 2%;
+  margin-right: 2.5%;
   min-width: 95%;
 }
 
@@ -46,18 +55,31 @@ a.nohover:hover {
 }
 
 .list {
-  /*list-style-type: none;*/
+  list-style-type: none;
+  text-align: center;
   text-transform: capitalize;
   font-style: italic;
-  font-size: 3em;
+  font-size: 5em;
+
 }
 
 .listname {
+  text-align: center;
   list-style-type: none;
   text-transform: capitalize;
-  font-size: 3em;
+  font-size: 7em;
+
 }
 
+.search{
+  padding-left: 380em;
+  padding-right: 10em;
+  padding-top: 4em;
+  min-width: 200e;
+  height: auto;
+  width: auto;
+
+}
 
 /*.bodytext:first-letter {
   font-size: 200%;

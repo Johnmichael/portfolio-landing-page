@@ -1,6 +1,5 @@
-body{
+body {
   font-family: 'Open Sans', sans-serif;
-
 }
 
 .selfie {
@@ -18,10 +17,9 @@ body{
   font-style: normal;
 }
 
-.blockquote{
+.blockquote {
   text-align: right;
   font-style: italic;
-
   margin-right: 8%;
 }
 
@@ -30,10 +28,10 @@ body{
 }
 
 blockquote {
-    border-left: none;
+  border-left: none;
 }
 
-.italic{
+.italic {
   font-style: italic;
   font-size: 1em;
 }
