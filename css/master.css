@@ -60,7 +60,6 @@ a.nohover:hover {
   text-transform: capitalize;
   font-style: italic;
   font-size: 5em;
-
 }
 
 .listname {
@@ -68,18 +67,17 @@ a.nohover:hover {
   list-style-type: none;
   text-transform: capitalize;
   font-size: 7em;
-
 }
 
-.search{
+.search {
   padding-left: 380em;
   padding-right: 10em;
   padding-top: 4em;
   min-width: 200e;
   height: auto;
   width: auto;
-
 }
+
 
 /*.bodytext:first-letter {
   font-size: 200%;
