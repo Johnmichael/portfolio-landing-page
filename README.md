@@ -20,7 +20,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomm
 
 - [Bootstrap](http://getbootstrap.com/) - The web framework used
 - [Atom](https://atom.io/) - Text Editor
-- [Epicodus Curriculum](www.learnhowtoprogram.com) - Self-explanatory
+- [Epicodus Curriculum](https://learnhowtoprogram.com) - Self-explanatory
 
 ## Author
 
