@@ -70,12 +70,12 @@ a.nohover:hover {
 }
 
 .search {
-  padding-left: 380em;
+  padding-left: 75%;
   padding-right: 10em;
   padding-top: 4em;
-  min-width: 200e;
   height: auto;
   width: auto;
+  max-width: 97%;
 }
 
 
