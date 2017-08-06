@@ -20,7 +20,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomm
 
 - [Bootstrap](http://getbootstrap.com/) - The web framework used
 - [Atom](https://atom.io/) - Text Editor
-- [My limited CSS and HTML knowledge](www.Epicodus.com) - Self-explanatory
+- [Epicodus Curriculum](www.Epicodus.com) - Self-explanatory
 
 ## Author
 
@@ -35,5 +35,6 @@ This project is licensed under the MIT License
 _I would like to thank the following;_
 
 - The poor sap who has to read this.
+- MySpace for introducing me to HTML
 - That guy who smuggled the coffee bean out of South America.
 - Wolfgang Voigt, for creating [beautiful music](https://www.youtube.com/watch?v=s--IkNqI9og).
