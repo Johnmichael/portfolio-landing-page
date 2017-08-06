@@ -24,7 +24,7 @@ If you can not view this, or are on a mobile browser, I would suggest you accomm
 
 ## Author
 
-- **John Parsons** - [Johnmichaelparsons](https://github.com/Johnmichaelparsons/)
+- **John Parsons** - [Github](https://github.com/Johnmichaelparsons/)
 
 ## License
 
@@ -35,6 +35,6 @@ This project is licensed under the MIT License
 _I would like to thank the following;_
 
 - The poor sap who has to read this.
-- MySpace for introducing me to HTML
+- MySpace for introducing me to HTML.
 - That guy who smuggled the coffee bean out of South America.
 - Wolfgang Voigt, for creating [beautiful music](https://www.youtube.com/watch?v=s--IkNqI9og).
