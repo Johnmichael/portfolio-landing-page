@@ -2,6 +2,10 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+p{
+  line-height: 150%;
+
+}
 .selfie {
   border-radius: 15%;
   float: left;
@@ -13,8 +17,12 @@ body {
 }
 
 .namedrop {
-  font-size: 1.6em;
+  font-size: 110%;
   font-style: normal;
+}
+
+.textbreak {
+  padding-top: 5%;
 }
 
 .blockquote {
