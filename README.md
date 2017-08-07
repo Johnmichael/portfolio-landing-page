@@ -4,6 +4,9 @@ This is the week one code review for the "Intro to Programming" project for Epic
 
 The objectives this project will accomplish are viewable [here](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/git-html-and-css-independent-project).
 
+This is the project after being tidied up during the weekend. For the project submitted at 5PM Friday, [click here]
+(https://github.com/Johnmichaelparsons/portfolio-landing-page/commit/97481a30386f7565f6475461ae5bc7c7f246e468)
+
 ## Getting Started
 
 This project will either be available for download immediately, or will be available on [github pages](https://johnmichaelparsons.github.io/portfolio-landing-page/)
