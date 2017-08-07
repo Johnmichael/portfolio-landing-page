@@ -9,7 +9,7 @@ This is the project after being tidied up during the weekend. For the project su
 
 ## Getting Started
 
-This project will either be available for download immediately, or will be available on [github pages](https://johnmichaelparsons.github.io/portfolio-landing-page/)
+This project will either be available for download immediately, or will be available on [github pages](https://johnmichaelparsons.github.io/portfolio-landing-page/).
 
 After downloading, drag and drop "index.html" onto an empty Google Chrome tab.
 
