@@ -5,6 +5,7 @@ body {
 .indent {
   text-indent: 20px;
 }
+
 .indentsmall {
   text-indent: 15px;
 }
@@ -12,8 +13,6 @@ body {
 h1, h2, h3, h4 {
   text-transform: capitalize;
 }
-
-
 
 strong.obvious {
   font-size: 1em;
@@ -30,7 +29,6 @@ strong.obvious {
   border-radius: 15px;
   margin-left: 2.5%;
   margin-right: 2.5%;
-
   min-width: 95%;
 }
 
@@ -55,15 +53,12 @@ a.nohover:hover {
   background: transparent;
 }
 
-
-
 .search {
   padding-left: 75%;
   padding-right: 3%;
   padding-top: .5%;
   height: auto;
   width: auto;
-
 }
 
 
@@ -95,6 +90,11 @@ a.nohover:hover {
 
 .footerspace {
   margin-top: 5%;
+}
+
+.footerspace2 {
+  margin-top: 15%;
+  padding-top: 5%;
 }
 
 .footer {
