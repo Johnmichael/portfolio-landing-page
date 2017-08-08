@@ -205,17 +205,17 @@ p {
 
 
 /* --- decoration --- */
+
 a:hover{
   background-color: #d7f4fa;
 }
+
 a.topleftcorner:hover {
   border-top-left-radius: 15px;
-
-
 }
+
 a:link {
   text-decoration: none;
-
 }
 
 /*--------------*/
