@@ -79,7 +79,7 @@ p {
 
 /* --- list --- */
 
-.list1 {
+.list1, .list2 {
   list-style-type: none;
 }
 
@@ -141,8 +141,16 @@ p {
 }
 
 .title {
-  margin-left: 10px;
   text-align: center;
+  margin-bottom: 5%;
+  border-radius: 1000px;
+  padding-top: .3%;
+  padding-bottom: .3%;
+}
+
+.titlejumbotron {
+  text-align: center;
+  margin-bottom: 2.5%;
 }
 
 .webname {
@@ -195,6 +203,22 @@ p {
 
 /*--------------*/
 
+
+/* --- decoration --- */
+a:hover{
+  background-color: #d7f4fa;
+}
+a.topleftcorner:hover {
+  border-top-left-radius: 15px;
+
+
+}
+a:link {
+  text-decoration: none;
+
+}
+
+/*--------------*/
 
 /* --- spacing --- */
 
