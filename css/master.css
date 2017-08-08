@@ -53,6 +53,35 @@ a.nohover:hover {
   background: transparent;
 }
 
+.textbreak {
+  padding-top: 5%;
+}
+
+.footerspace {
+  padding-top: 10%;
+}
+
+
+.footer {
+  background-color: #d7f4fa;
+  opacity: .6;
+  padding: 1em;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  border-radius: 105px;
+}
+
+.footerimg {
+  max-width: .4em;
+  height: auto;
+  max-height: 10%;
+  padding: 10em;
+  margin: 10em;
+}
+
+
 .search {
   padding-left: 75%;
   padding-right: 3%;
@@ -62,11 +91,7 @@ a.nohover:hover {
 }
 
 
-/*.bodytext:first-letter {
-  font-size: 200%;
-  float: left;
-  line-height: 1;
-} Decided against*/
+
 
 .bodytext {
   font-size: 105%;
@@ -86,32 +111,4 @@ a.nohover:hover {
 
 .headerspace {
   margin-top: 1%;
-}
-
-.footerspace {
-  margin-top: 5%;
-}
-
-.footerspace2 {
-  margin-top: 15%;
-  padding-top: 5%;
-}
-
-.footer {
-  background-color: #d7f4fa;
-  opacity: .6;
-  padding: 1em;
-  position: fixed;
-  bottom: 0px;
-  width: 100%;
-  text-align: center;
-  border-radius: 105px;
-}
-
-.footerimg {
-  max-width: .4em;
-  height: auto;
-  max-height: 10%;
-  padding: 10em;
-  margin: 10em;
 }
