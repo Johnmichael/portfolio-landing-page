@@ -79,11 +79,13 @@ p {
 
 /* --- list --- */
 
-.list1, .list2 {
-  list-style-type: none;
+.list1{
+  list-style-type: upper-roman;
 }
 
-
+..list2 {
+  list-style-type: disc;
+}
 /*--------------*/
 
 
